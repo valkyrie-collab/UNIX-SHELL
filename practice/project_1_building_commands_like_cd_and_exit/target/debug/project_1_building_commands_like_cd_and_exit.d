@@ -1,0 +1,1 @@
+/home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevel/custom_unix_shell/practice/project_1_building_commands_like_cd_and_exit/target/debug/project_1_building_commands_like_cd_and_exit: /home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevel/custom_unix_shell/practice/project_1_building_commands_like_cd_and_exit/src/main.rs

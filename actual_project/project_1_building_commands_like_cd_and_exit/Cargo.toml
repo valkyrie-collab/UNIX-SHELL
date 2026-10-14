@@ -1,0 +1,6 @@
+[package]
+name = "project_1_building_commands_like_cd_and_exit"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,5 @@
+/home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevel/custom_unix_shell/practice/project_1_building_commands_like_cd_and_exit/target/debug/deps/project_1_building_commands_like_cd_and_exit-7890d1b3d1065f42.d: src/main.rs
+
+/home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevel/custom_unix_shell/practice/project_1_building_commands_like_cd_and_exit/target/debug/deps/libproject_1_building_commands_like_cd_and_exit-7890d1b3d1065f42.rmeta: src/main.rs
+
+src/main.rs:
