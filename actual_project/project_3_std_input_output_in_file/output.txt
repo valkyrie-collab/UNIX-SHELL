@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 4 valkyrie-pc valkyrie-pc 4096 Oct 18 23:21 .
+drwxrwxr-x 5 valkyrie-pc valkyrie-pc 4096 Oct 18 19:05 ..
+-rw-rw-r-- 1 valkyrie-pc valkyrie-pc  178 Oct 18 19:05 Cargo.lock
+-rw-rw-r-- 1 valkyrie-pc valkyrie-pc  105 Oct 18 19:05 Cargo.toml
+-rw-rw-r-- 1 valkyrie-pc valkyrie-pc    0 Oct 18 23:21 output.txt
+drwxrwxr-x 2 valkyrie-pc valkyrie-pc 4096 Oct 18 19:05 src
+drwxrwxr-x 4 valkyrie-pc valkyrie-pc 4096 Oct 18 19:05 target

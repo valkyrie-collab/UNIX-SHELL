@@ -1,0 +1,1 @@
+/home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevelProgramming/UNIX-SHELL/actual_project/project_3_std_input_output_in_file/target/debug/project_3_std_input_output_in_file: /home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevelProgramming/UNIX-SHELL/actual_project/project_3_std_input_output_in_file/src/main.rs
