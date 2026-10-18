@@ -1,0 +1,1 @@
+/home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevelProgramming/UNIX-SHELL/practice/project_2_advanced_tokenization/target/debug/project_2_advanced_tokenization: /home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevelProgramming/UNIX-SHELL/practice/project_2_advanced_tokenization/src/main.rs
