@@ -1,0 +1,1 @@
+/home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevelProgramming/UNIX-SHELL/practice/project_3_writting_reading_from_file/target/debug/project_3_writting_reading_from_file: /home/valkyrie-pc/Documents/Programming/RustProgramming/LowLevelProgramming/UNIX-SHELL/practice/project_3_writting_reading_from_file/src/main.rs

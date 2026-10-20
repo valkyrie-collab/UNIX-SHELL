@@ -6,3 +6,10 @@ drwxrwxr-x 5 valkyrie-pc valkyrie-pc 4096 Oct 18 19:05 ..
 -rw-rw-r-- 1 valkyrie-pc valkyrie-pc    0 Oct 18 23:21 output.txt
 drwxrwxr-x 2 valkyrie-pc valkyrie-pc 4096 Oct 18 19:05 src
 drwxrwxr-x 4 valkyrie-pc valkyrie-pc 4096 Oct 18 19:05 target
+.
+..
+Cargo.lock
+Cargo.toml
+output.txt
+src
+target
